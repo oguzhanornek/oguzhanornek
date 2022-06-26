@@ -5,7 +5,9 @@
   
 
 - 🌱 I’m currently learning Kotlin and Android  
-  
+
+
+- 💬  You can contact me: ornekoguzhan@gmail.com
 
 <br/>  
 
