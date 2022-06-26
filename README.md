@@ -25,6 +25,9 @@
 <a href="https://www.java.com" target="_blank">
 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 </a>
+<a href="https://firebase.google.com" target="_blank">
+<img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/>
+</a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
 <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
 </a>
@@ -36,10 +39,7 @@
 </a> 
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
 <img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50"/>
-</a> 
-<a href="https://firebase.google.com" target="_blank">
-<img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/>
-</a> 
+</a>  
 </div>
 </td></tr></table>  
 
