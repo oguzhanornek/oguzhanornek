@@ -9,6 +9,9 @@
 
 - 💬  You can contact me: ornekoguzhan@gmail.com
 
+
+-  💻[ornek.dev](https://www.ornek.dev)
+
 <br/>  
 
 
